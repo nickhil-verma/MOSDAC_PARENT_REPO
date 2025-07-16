@@ -1,0 +1,6 @@
+[submodule "MOSDAQ_SCRAPPING_SCRIPT"]
+	path = MOSDAQ_SCRAPPING_SCRIPT
+	url = https://github.com/nickhil-verma/MOSDAQ_SCRAPPING_SCRIPT.git
+[submodule "MOSDAQ_KG_API"]
+	path = MOSDAQ_KG_API
+	url = https://github.com/nickhil-verma/MOSDAQ_KG_API.git
